@@ -8,7 +8,7 @@ metaDescription: "Desarrollo Web - Arquitectura de Software"
 <img src="https://scontent.fscl15-1.fna.fbcdn.net/v/t1.0-9/29177351_2018434261518953_8665620458445471744_o.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=BBNGKVETA7UAX-UQ9Y1&_nc_ht=scontent.fscl15-1.fna&oh=5e7a09c21da67047f78b307f8a9ecdc0&oe=5FD323BF" width="150" />
 
 
-Tengo 23 años y estudio la carrera de Ingenieria Civil en Informática
+Tengo 24 años y estudio la carrera de Ingenieria Civil en Informática
 ___
 
 ## Intereses
